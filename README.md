@@ -40,6 +40,30 @@ So a little bit about me, I am a resourceful quality engineer, self-motivated an
 <details>
  <summary><h3>👨‍💻 More detail on my experience</h3></summary>
  
- I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software
+I currently work as a senior software engineer in test working day to day with technologies such as :
+
+Playwright - Javascript
+Selenium - Java
+Selenium grid
+restAssured - BDD java
+Karate API 
+Postman
+Jenkins pipelines (maven / groovy)
+Node package manager (npm)
+Docker containers
+XRAY test managment
+CLI, VScode, Intellij (Eclipse)
+Jira / Agile / Kanban
+git stash / bash and source tree.
+Test automation + manual testing.
+
+I have excellent planning skills and accustomed to latest software development methodologies, can work with pressure while remaining calm and effective and prioritizing wisely. 
+
+I also have valuable transferable skills including analysis of data, attention to detail and risk whilst working towards goals and achieving results within tight deadlines. 
+
+I enjoy motivating and being part of a productive team; equally comfortable working on own initiative.
+ 
+I am ISTQB Certified and a certified SCRUM Master with excellent testing lifecycle skills (regression, functional UAT etc) and very strong automation capabilities across a number of languages and tools with an excellent track record on project results.
+
  
  
