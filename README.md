@@ -1,4 +1,4 @@
-# 🏄‍♂️ Stephen Costello
+# Hi there, I'm Stephen 👋 
 
 **`Test engineer (Agile/Multiple languages/Cloud techologies)`**
 
