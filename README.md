@@ -23,9 +23,7 @@ a little bit about me, I am a resourceful quality engineer, self-motivated and r
 <br />
 
 <details>
-
- 
- <summary><h3>👨‍💻 Read some more </h3></summary>
+<summary><h3>👨‍💻 Read some more </h3></summary>
 
 I currently work as a senior software engineer in test working day to day with :
 
