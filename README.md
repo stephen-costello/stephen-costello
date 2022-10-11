@@ -7,8 +7,30 @@ Thank you for viewing my profile.
 a little bit about me, I am a resourceful quality engineer, self-motivated and results driven with over 7 years of experience working with SCRUM and Agile development, I work well within a close team whilst using initiative for problem solving and ensuring errors are correctly prioritized. 
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 Read some more </h3></summary>
+   I currently work as a senior software engineer in test working day to day with :
+
+Playwright - Javascript
+Selenium - Java
+Selenium grid
+restAssured - BDD java
+Postman
+Jenkins pipelines (maven / groovy)
+Node package manager (npm)
+Docker containers
+XRAY test managment
+CLI, VScode, Intellij (Eclipse)
+Jira / Agile / Kanban
+git stash / bash and source tree.
+Test automation + manual testing.
+
+I have excellent planning skills and accustomed to latest software development methodologies, can work with pressure while remaining calm and effective and prioritizing wisely. 
+
+I also have valuable transferable skills including analysis of data, attention to detail and risk whilst working towards goals and achieving results within tight deadlines. 
+
+I enjoy motivating and being part of a productive team; equally comfortable working on own initiative.
+ 
+I am ISTQB Certified and a certified SCRUM Master with excellent testing lifecycle skills (regression, functional UAT etc) and very strong automation capabilities across a number of languages and tools with an excellent track record on project results.
 ---
 
 ### 🧰 Languages and Tools
