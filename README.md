@@ -6,8 +6,7 @@ Thank you for viewing my profile.
 
 a little bit about me, I am a resourceful quality engineer, self-motivated and results driven with over 7 years of experience working with SCRUM and Agile development, I work well within a close team whilst using initiative for problem solving and ensuring errors are correctly prioritized. 
 
-<details>
- <summary><h3>👨‍💻 Read some more </h3></summary>
+
  
 
 
@@ -31,7 +30,10 @@ a little bit about me, I am a resourceful quality engineer, self-motivated and r
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-###I currently work as a senior software engineer in test working day to day with :
+<details>
+ <summary><h3>👨‍💻 Read some more </h3></summary>
+
+I currently work as a senior software engineer in test working day to day with :
 
 Playwright - Javascript
 Selenium - Java
