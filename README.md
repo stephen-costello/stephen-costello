@@ -8,7 +8,8 @@ a little bit about me, I am a resourceful quality engineer, self-motivated and r
 
 <details>
  <summary><h3>👨‍💻 Read some more </h3></summary>
-   I currently work as a senior software engineer in test working day to day with :
+ 
+###I currently work as a senior software engineer in test working day to day with :
 
 Playwright - Javascript
 Selenium - Java
@@ -31,8 +32,8 @@ I also have valuable transferable skills including analysis of data, attention t
 I enjoy motivating and being part of a productive team; equally comfortable working on own initiative.
  
 I am ISTQB Certified and a certified SCRUM Master with excellent testing lifecycle skills (regression, functional UAT etc) and very strong automation capabilities across a number of languages and tools with an excellent track record on project results.
----
 #
+
 
 ### 🧰 Languages and Tools
 
