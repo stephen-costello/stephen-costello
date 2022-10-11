@@ -4,8 +4,7 @@
 
 Thank you for viewing my profile.
 
-a little bit about me, I am a resourceful quality engineer, self-motivated and results driven with over 7 years of experience working with SCRUM and Agile development, I work well within a close team whilst using initiative for problem solving and ensuring errors are correctly prioritized. 
-
+So a little bit about me, I am a resourceful quality engineer, self-motivated and results driven with over 7 years of experience working with SCRUM and Agile development, I work well within a close team whilst using initiative for problem solving and ensuring errors are correctly prioritized.
 
  
 
