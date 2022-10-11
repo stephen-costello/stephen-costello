@@ -6,7 +6,8 @@ Thank you for viewing my profile.
 
 So a little bit about me, I am a resourceful quality engineer, self-motivated and results driven with over 7 years of experience working with SCRUM and Agile development, I work well within a close team whilst using initiative for problem solving and ensuring errors are correctly prioritized.
 
- 
+ <details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
 
 
 ### 🧰 Languages and Tools
