@@ -32,6 +32,7 @@ I enjoy motivating and being part of a productive team; equally comfortable work
  
 I am ISTQB Certified and a certified SCRUM Master with excellent testing lifecycle skills (regression, functional UAT etc) and very strong automation capabilities across a number of languages and tools with an excellent track record on project results.
 ---
+#
 
 ### 🧰 Languages and Tools
 
